@@ -1,4 +1,4 @@
-# CodeAlpha_LEAF-DISEASE-DETECTION_SarveshRaam
+#LEAF-DISEASE-DETECTION
 
 Disease detection in plants plays a very important
 role in the field of agriculture. This Data Science
